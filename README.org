@@ -1,0 +1,8 @@
+
+* gimasy
+
+
+
+** License
+
+#+include: LICENSE.txt
